@@ -1,0 +1,64 @@
+body {
+    font-family: 'Cairo', sans-serif;
+    background: grey;
+    margin-top: 25px;
+}
+
+.container {
+    background: white;
+}
+
+header {
+    margin-bottom: 25px;
+    background: black;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.separador {
+    border-bottom: 1px solid #e2e2e2;
+    margin: 25px 0;
+}
+
+label {
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-size: 0.9em;
+}
+
+input, select {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    background: #f2f2f2;
+    height: 50px;
+    width: 100%;
+    padding: 0 15px;
+    border-radius: 5px;
+}
+
+.boton {
+    width: 100%;
+    background: grey;
+    color: white;
+}
+
+.boton:hover {
+    background: black;
+}
+
+footer {
+    margin-top: 25px;
+    background: black;
+    color: white;
+}
+
